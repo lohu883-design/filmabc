@@ -1,0 +1,13 @@
+{
+  "name": "cloudstream-vercel-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "next": "15.4.4",        
+    "@upstash/redis": "^1.26.1"
+  }
+}
+
+
+
+
