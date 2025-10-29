@@ -31,7 +31,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 15,
         "internalName": "fshare",
         "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/FshareProvider.cs3",
         "name": "Fshare"
