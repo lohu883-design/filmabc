@@ -17,24 +17,24 @@
         "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/PhimMoiChillProvider.cs3",
         "name": "PhimMoiProviderr"
     },
-     {
-        "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
+    {
+        "iconUrl": "https://web.static.mmcdn.com/images/logo.svg?hash=7c993ccd600a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "fileSize": 12025,
         "status": 1,
-        "language": "vi",
+        "language": "en",
         "authors": [
             "obama"
         ],
         "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "NSFW"
         ],
-        "version": 15,
-        "internalName": "fshare",
-        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/FshareProvider.cs3",
-        "name": "Fshare"
+        "version": 3,
+        "internalName": "Chatrubate",
+        "description": "Chaturbate - Free Adult Webcams, Live Sex, Free Sex Chat, Exhibitionist & Pornstar Free Cams",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/Chatrubate.cs3",
+        "name": "Chatrubate"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
