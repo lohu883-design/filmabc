@@ -121,7 +121,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 5,
         "internalName": "BluPhim",
         "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/BluPhimProvider.cs3",
         "name": "BluPhim"
