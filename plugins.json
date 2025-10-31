@@ -37,6 +37,25 @@
         "name": "Chatrubate"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www5.javmost.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "fileSize": 8771,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "JavMost",
+        "description": "",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/JavMost.cs3",
+        "name": "JavMost"
+    },
+    {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lohu883-design/filmabc",
