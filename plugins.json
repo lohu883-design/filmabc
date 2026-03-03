@@ -236,6 +236,23 @@
         "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/HHKungFuProvider.cs3",
         "name": "HHkungfuProvider"
     },
+     {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhpanda.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "HHPandaProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PandaProvider.cs3",
+        "name": "HHPandaProvider"
+    },
     {
         "iconUrl": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/icon/phimviet.png",
         "apiVersion": 1,
