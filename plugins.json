@@ -172,14 +172,14 @@
         "status": 1,
         "language": "vi",
         "authors": [
-            "anhdaden"
+            "obama"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 23,
-        "internalName": "BluPhim",
+        "internalName": "BluPhimProvider",
         "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/BluPhimProvider.cs3",
         "name": "BluPhim"
     },
