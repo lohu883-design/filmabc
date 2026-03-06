@@ -130,23 +130,6 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "obama"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 2,
-        "internalName": "AnimeVietsubProvider",
-        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/AnimeVietsub.cs3",
-        "name": "AnimeVietsubProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lohu883-design/filmabc",
@@ -184,24 +167,6 @@
         "name": "BluPhim"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "obama"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "PhimLongTiengProvider",
-        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/PhimLongTieng.cs3",
-        "name": "PhimLongTieng"
-    },
-    {
         "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lohu883-design/filmabc",
@@ -235,23 +200,6 @@
         "internalName": "HHkungfuProvider",
         "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/HHKungFuProvider.cs3",
         "name": "HHkungfuProvider"
-    },
-     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhpanda.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Linor"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 2,
-        "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PandaProvider.cs3",
-        "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/icon/phimviet.png",
